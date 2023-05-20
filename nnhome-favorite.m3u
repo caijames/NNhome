@@ -222,7 +222,7 @@ https://cntv.sbs/abroad?id=h003
 #EXTINF: -1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://cntv.sbs/g?logo=rthk31" group-title="香港", 港台电视31
 https://cntv.sbs/abroad?id=h006
 #EXTINF: -1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://cntv.sbs/g?logo=rthk32" group-title="香港", 港台电视32
-https://cntv.sbs/abroad?id=h007
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF: -1 tvg-id="香港開電視" tvg-name="香港開電視" tvg-logo="https://cntv.sbs/g?logo=hoy-tv" group-title="香港", 香港開電視
 https://cntv.sbs/abroad?id=h010
 #EXTINF: -1 tvg-id="香港開電視資訊台" tvg-name="香港開電視資訊台" tvg-logo="https://cntv.sbs/g?logo=hoy-info" group-title="香港", 香港開電視資訊台
