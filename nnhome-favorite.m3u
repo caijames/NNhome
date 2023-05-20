@@ -278,7 +278,7 @@ https://cntv.sbs/abroad?id=t021
 #EXTINF: -1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cntv.sbs/g?logo=ftv-travel" group-title="台湾", 民視旅遊台
 https://cntv.sbs/abroad?id=t022
 #EXTINF: -1 tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="https://cntv.sbs/g?logo=set-tw" group-title="台湾", 三立台灣
-https://cntv.sbs/abroad?id=t023
+http://162.19.247.76:22222/live/uch5/index.m3u8
 #EXTINF: -1 tvg-id="三立都會" tvg-name="三立都會" tvg-logo="https://cntv.sbs/g?logo=set-dh" group-title="台湾", 三立都會
 http://162.19.247.76:22222/live/uch6/index.m3u8
 #EXTINF: -1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://cntv.sbs/g?logo=cts-zy" group-title="台湾", 天才衝衝衝
