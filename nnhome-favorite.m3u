@@ -214,7 +214,7 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF: -1 tvg-id="2855" tvg-name="有线财经资讯" tvg-chno="410" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="香港", 有线财经资讯
 https://api.leonardpark.dev/live/icable/108
 #EXTINF: -1 tvg-id="130" tvg-name="无线新闻" tvg-chno="418" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻
-https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8?by=yeslivetv_com
+http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF: -1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="香港", 無綫財經·體育·資訊台
 https://cntv.sbs/abroad?id=h005
 #EXTINF: -1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cntv.sbs/g?logo=tvb-j2" group-title="香港", J2
