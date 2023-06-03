@@ -176,7 +176,7 @@ https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 #EXTINF: -1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-chno="311" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海", 魅力足球
 https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF: -1 tvg-id="新视觉" tvg-name="新视觉" tvg-chno="312" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海", SITV新视觉
-http://cntv.sbs/ipv6?id=ycxsjH265
+https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF: -1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-chno="313" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海", SITV游戏风云
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 #EXTINF: -1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-chno="314" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海", 哈哈炫动
