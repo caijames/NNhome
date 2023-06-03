@@ -98,7 +98,7 @@ http://api.52tb.xyz/info?id=86&token=20230125dskxlj
 #EXTINF: -1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视", 河北卫视
 http://api.52tb.xyz/info?id=32&token=20230125dskxlj
 #EXTINF: -1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视", 河南卫视
-http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
+http://api.52tb.xyz/info?id=31&token=20230125dskxlj
 #EXTINF: -1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视", 海南卫视
 http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
 #EXTINF: -1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视", 深圳卫视
