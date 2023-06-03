@@ -108,7 +108,7 @@ http://api.52tb.xyz/info?id=34&token=20230125dskxlj
 #EXTINF: -1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视", 贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
 #EXTINF: -1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视", 辽宁卫视
-http://[2409:8087:4402:20:1:1216:401:2f]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/index.m3u8
+http://api.52tb.xyz/info?id=43&token=20230125dskxlj
 #EXTINF: -1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视", 重庆卫视
 http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 #EXTINF: -1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视", 龙江卫视
