@@ -18,7 +18,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/32212282
 #EXTINF: -1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视", CCTV8
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF: -1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视", CCTV9
-http://[2409:8087:4402:20:1:1216:401:3a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/1/224/3221228303/index.m3u8
 #EXTINF: -1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视", CCTV10
 http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8
 #EXTINF: -1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视", CCTV11
