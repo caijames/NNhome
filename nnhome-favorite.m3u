@@ -110,7 +110,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott
 #EXTINF: -1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视", 辽宁卫视
 http://api.52tb.xyz/info?id=43&token=20230125dskxlj
 #EXTINF: -1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视", 重庆卫视
-http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
+http://api.52tb.xyz/info?id=37&token=20230125dskxlj
 #EXTINF: -1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视", 龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF: -1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视", 甘肃卫视
