@@ -186,7 +186,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF: -1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-chno="316" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="上海", 都市剧场
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 #EXTINF: -1 tvg-id="东方财经" tvg-name="东方财经" tvg-chno="317" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海", 东方财经
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF: -1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-chno="318" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="上海", 法治天地
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
 #EXTINF: -1 tvg-id="乐游" tvg-name="乐游" tvg-chno="319" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海", 乐游
