@@ -160,7 +160,7 @@ http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
 #EXTINF: -1 tvg-id="上海都市" tvg-name="上海都市" tvg-chno="303" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海", 上海都市
 http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-chno="304" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海", 五星体育
-http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF: -1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-chno="305" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海", 东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF: -1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-chno="306" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海", 生活时尚
