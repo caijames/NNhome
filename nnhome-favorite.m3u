@@ -164,7 +164,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF: -1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-chno="306" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海", 生活时尚
 http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
 #EXTINF: -1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-chno="307" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海", 第一财经
-http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1314BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjI9NVIjBLmqU0HRssVBtByz0TJiFt6IqCBywgEFMyoS7%2BaXtSGYH1ipJfllOdvLcUQ%3D%3D
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 #EXTINF: -1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-chno="308" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海", 上海ICS外语
 http://gslbserv.itv.cmvideo.cn:80/0000000000001001/1/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-chno="309" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海", 劲爆体育
