@@ -178,7 +178,7 @@ https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF: -1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-chno="313" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海", SITV游戏风云
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 #EXTINF: -1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-chno="314" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海", 哈哈炫动
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
 #EXTINF: -1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-chno="315" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海", 七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF: -1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-chno="316" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="上海", 都市剧场
@@ -186,11 +186,11 @@ http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/322
 #EXTINF: -1 tvg-id="东方财经" tvg-name="东方财经" tvg-chno="317" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海", 东方财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF: -1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-chno="318" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="上海", 法治天地
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001195/1.m3u8
 #EXTINF: -1 tvg-id="乐游" tvg-name="乐游" tvg-chno="319" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海", 乐游
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF: -1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-chno="320" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="上海", 金色学堂
-http://222.65.21.143:4022/udp/239.45.0.9:5140
+http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001194/1.m3u8
 #EXTINF: -1 tvg-id="上海教育" tvg-name="上海教育" tvg-chno="321" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海", 上海教育
 https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 #EXTINF: -1 tvg-id="142" tvg-name="凤凰资讯" tvg-chno="401" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港", 凤凰资讯
