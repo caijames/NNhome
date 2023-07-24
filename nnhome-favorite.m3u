@@ -33,7 +33,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
 #EXTINF: -1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视", CCTV16
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF: -1 tvg-id="CCTV16" tvg-name="CCTV16-4K-25PHLG源" tvg-chno="117" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视", CCTV16-4K
+#EXTINF: -1 tvg-id="CCTV16" tvg-name="CCTV16-4K-25PHLG源" tvg-chno="117" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视", CCTV16 4K
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 #EXTINF: -1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视", CCTV17
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
