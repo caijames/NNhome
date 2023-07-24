@@ -380,11 +380,11 @@ http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 #EXTINF: -1 tvg-id="清华有线" tvg-name="清华有线" tvg-chno="705" tvg-logo="https://live.fanmingming.com/tv/清华.png" group-title="教育", 清华校园有线
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF: -1 tvg-id="求索动物" tvg-name="求索动物" tvg-chno="801" tvg-logo="https://live.fanmingming.com/tv/QSDW.png" group-title="华数", 求索动物
-http://[2409:8087:4402:20:1:1216:401:41]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="求索生活" tvg-name="求索生活" tvg-chno="802" tvg-logo="https://live.fanmingming.com/tv/QSSH.png" group-title="华数", 求索生活
-http://[2409:8087:4402:20:1:1216:401:43]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="求索科学" tvg-name="求索科学" tvg-chno="803" tvg-logo="https://live.fanmingming.com/tv/QSKX.png" group-title="华数", 求索科学
-http://[2409:8087:4402:20:1:1216:401:46]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="求索记录" tvg-name="求索记录" tvg-chno="804" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="华数", 求索纪录
 http://[2409:8087:4402:20:1:1216:401:38]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF: -1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-chno="901" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕", 咪咕体育
