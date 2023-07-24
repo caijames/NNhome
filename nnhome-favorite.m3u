@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="CCTV1" tvg-name="CCTV1 4K" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视", CCTV1
+#EXTINF: -1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视", CCTV1 4k
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
 #EXTINF: -1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视", CCTV2
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
