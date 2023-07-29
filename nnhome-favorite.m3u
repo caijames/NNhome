@@ -283,8 +283,8 @@ http://162.19.247.76:22222/live/uch6/index.m3u8
 https://cntv.sbs/abroad?id=t025
 #EXTINF: -1 tvg-chno="408" tvg-logo="https://epg.112114.xyz/logo/澳门莲花.png" group-title="澳门", 澳门莲花
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
-#EXTINF: -1 tvg-logo="https://cntv.sbs/g?logo=abc-news-australia" group-title="News", ABC News Australia
-https://cntv.sbs/abroad?id=e001
+#EXTINF: -1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.112114.xyz/logo/REDBULL.png" group-title="News", Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF: -1 tvg-logo="https://cntv.sbs/g?logo=abc-news" group-title="News", ABC News
 https://cntv.sbs/abroad?id=e002
 #EXTINF: -1 tvg-logo="https://cntv.sbs/g?logo=ann-news" group-title="News", ANN News
