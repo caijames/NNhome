@@ -198,11 +198,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF: -1 tvg-id="141" tvg-name="凤凰中文" tvg-chno="402" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港", 凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF: -1 tvg-id="143" tvg-name="凤凰香港" tvg-chno="403" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港", 凤凰香港
-http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF: -1 tvg-id="2683" tvg-chno="404" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港", 翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF: -1 tvg-id="2683" tvg-name="翡翠台" tvg-chno="404" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港", 翡翠台
-http://r.jdshipin.com/62WM7
 #EXTINF: -1 tvg-id="2684" tvg-name="明珠台" tvg-chno="405" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港", 明珠台
 http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
 #EXTINF: -1 tvg-chno="407" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="香港", 香港卫视
