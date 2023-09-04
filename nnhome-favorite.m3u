@@ -204,7 +204,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 #EXTINF: -1 tvg-id="2683" tvg-chno="404" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港", 翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF: -1 tvg-id="2684" tvg-name="明珠台" tvg-chno="405" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港", 明珠台
-http://60.208.16.27:1505/gudou.php?id=364&id=1351_4500
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF: -1 tvg-chno="407" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="香港", 香港卫视
 http://anren.live/HK/BSJDUFpB.m3u8
 #EXTINF: -1 tvg-id="7122" tvg-name="有线新闻台" tvg-chno="409" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港", 有线新闻
