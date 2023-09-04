@@ -212,7 +212,7 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF: -1 tvg-id="2855" tvg-name="有线财经资讯" tvg-chno="410" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="香港", 有线财经资讯
 https://api.leonardpark.dev/live/icable/108
 #EXTINF: -1 tvg-id="130" tvg-name="无线新闻" tvg-chno="418" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+https://tv.iill.top/tvb/4
 #EXTINF: -1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="香港", 無綫財經·體育·資訊台
 https://cntv.sbs/abroad?id=h005
 #EXTINF: -1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cntv.sbs/g?logo=tvb-j2" group-title="香港", J2
