@@ -216,7 +216,7 @@ https://tv.iill.top/tvb/4
 #EXTINF: -1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="香港", 無綫財經·體育·資訊台
 https://cntv.sbs/abroad?id=h005
 #EXTINF: -1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cntv.sbs/g?logo=tvb-j2" group-title="香港", J2
-http://162.19.247.76:22222/live/tvbj2/index.m3u8
+http://r.jdshipin.com/Nr5jq
 #EXTINF: -1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://cntv.sbs/g?logo=rthk31" group-title="香港", 港台电视31
 https://cntv.sbs/abroad?id=h006
 #EXTINF: -1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://cntv.sbs/g?logo=rthk32" group-title="香港", 港台电视32
