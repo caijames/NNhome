@@ -214,7 +214,7 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF: -1 tvg-id="130" tvg-name="无线新闻" tvg-chno="418" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻
 https://tv.iill.top/tvb/4
 #EXTINF: -1 tvg-id="133" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="香港", 無綫財經·體育·資訊台
-https://cntv.sbs/abroad?id=h005
+https://tv.iill.top/tvb/6
 #EXTINF: -1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cntv.sbs/g?logo=tvb-j2" group-title="香港", J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF: -1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://cntv.sbs/g?logo=rthk31" group-title="香港", 港台电视31
