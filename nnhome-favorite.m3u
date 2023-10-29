@@ -40,7 +40,7 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 #EXTINF: -1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视", CCTV17
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228407/index.m3u8
 #EXTINF: -1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视", CCTV4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF: -1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-chno="119" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视", CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF: -1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-chno="120" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="央视", CHC家庭影院
@@ -364,7 +364,7 @@ https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF: -1 tvg-id="Animax.jp" tvg-name="Animax" group-title="国际", Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
 #EXTINF: -1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-chno="601" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="UHD", 纯享超清
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF: -1 tvg-id="4K修复" tvg-name="4K修复" tvg-chno="605" tvg-logo="https://upload.112114.xyz/logo/4K修复.png" group-title="UHD", 4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw1958249448_-1314265822/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF: -1 tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-chno="602" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY电影.png" group-title="UHD", 超高清电影
