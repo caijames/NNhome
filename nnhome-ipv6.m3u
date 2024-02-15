@@ -158,13 +158,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/32212
 #EXTINF: -1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-chno="302" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海", 上海新闻
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="上海都市" tvg-name="上海都市" tvg-chno="303" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海", 上海都市
-http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001015/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-chno="304" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海", 五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-chno="305" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海", 东方影视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-chno="306" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海", 生活时尚
-http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF: -1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-chno="307" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海", 第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF: -1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-chno="308" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海", 上海ICS外语
