@@ -160,39 +160,39 @@ https://itv.lat/tv/live.php?&line=1&id=shxwzh
 #EXTINF: -1 tvg-id="上海都市" tvg-name="上海都市" tvg-chno="303" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海", 上海都市
 https://itv.lat/tv/live.php?&line=1&id=shds
 #EXTINF: -1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-chno="304" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海", 五星体育
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+https://itv.lat/tv/live.php?&line=1&id=wxty
 #EXTINF: -1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-chno="305" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海", 东方影视
 https://itv.lat/tv/live.php?&line=1&id=dfys
 #EXTINF: -1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-chno="306" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海", 生活时尚
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+https://itv.lat/tv/live.php?&line=1&id=shss
 #EXTINF: -1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-chno="307" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海", 第一财经
 https://itv.lat/tv/live.php?&line=1&id=dycj
 #EXTINF: -1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-chno="308" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海", 上海ICS外语
 https://itv.lat/tv/live.php?&line=1&id=shics
 #EXTINF: -1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-chno="309" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海", 劲爆体育
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
+https://itv.lat/tv/live.php?&line=1&id=jbty
 #EXTINF: -1 tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-chno="310" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海", 纪实人文
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF: -1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-chno="311" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海", 魅力足球
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+https://itv.lat/tv/live.php?&line=1&id=mlzq
 #EXTINF: -1 tvg-id="新视觉" tvg-name="新视觉" tvg-chno="312" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海", SITV新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
+https://itv.lat/tv/live.php?&line=1&id=xsj
 #EXTINF: -1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-chno="313" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海", SITV游戏风云
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 #EXTINF: -1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-chno="314" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海", 哈哈炫动
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001232/1.m3u8
+https://itv.lat/tv/live.php?&line=1&id=hhxd
 #EXTINF: -1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-chno="315" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海", 七彩戏剧
 https://itv.lat/tv/live.php?&line=1&id=qcxj
 #EXTINF: -1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-chno="316" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="上海", 都市剧场
-http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8
+https://itv.lat/tv/live.php?&line=1&id=dsjc
 #EXTINF: -1 tvg-id="东方财经" tvg-name="东方财经" tvg-chno="317" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海", 东方财经
 https://itv.lat/tv/live.php?&line=1&id=dfcj
 #EXTINF: -1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-chno="318" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="上海", 法治天地
 https://itv.lat/tv/live.php?&line=1&id=fztd
 #EXTINF: -1 tvg-id="乐游" tvg-name="乐游" tvg-chno="319" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海", 乐游
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+https://itv.lat/tv/live.php?&line=1&id=qjs
 #EXTINF: -1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-chno="320" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="上海", 金色学堂
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
+https://itv.lat/tv/live.php?&line=1&id=jspd
 #EXTINF: -1 tvg-id="上海教育" tvg-name="上海教育" tvg-chno="321" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海", 上海教育
 https://itv.lat/tv/live.php?&line=1&id=shjy
 #EXTINF: -1 tvg-id="142" tvg-name="凤凰资讯" tvg-chno="401" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港", 凤凰资讯
