@@ -156,11 +156,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF: -1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-chno="301" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海", 东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF: -1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-chno="302" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海", 上海新闻
-https://itv.lat/tv/live.php?&line=1&id=shxwzh
+http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
 #EXTINF: -1 tvg-id="上海都市" tvg-name="上海都市" tvg-chno="303" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海", 上海都市
-https://itv.lat/tv/live.php?&line=1&id=shds
+http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
 #EXTINF: -1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-chno="304" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海", 五星体育
-https://itv.lat/tv/live.php?&line=1&id=wxty
+http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
 #EXTINF: -1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-chno="305" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海", 东方影视
 https://itv.lat/tv/live.php?&line=1&id=dfys
 #EXTINF: -1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-chno="306" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海", 生活时尚
@@ -196,9 +196,9 @@ https://itv.lat/tv/live.php?&line=1&id=jspd
 #EXTINF: -1 tvg-id="上海教育" tvg-name="上海教育" tvg-chno="321" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海", 上海教育
 https://itv.lat/tv/live.php?&line=1&id=shjy
 #EXTINF: -1 tvg-id="142" tvg-name="凤凰资讯" tvg-chno="401" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港", 凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF: -1 tvg-id="141" tvg-name="凤凰中文" tvg-chno="402" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港", 凤凰中文
-http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF: -1 tvg-id="143" tvg-name="凤凰香港" tvg-chno="403" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="香港", 凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF: -1 tvg-id="2683" tvg-chno="404" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港", 翡翠台
