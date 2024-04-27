@@ -394,13 +394,13 @@ http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF: -1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-chno="703" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育", CETV4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF: -1 tvg-id="求索动物" tvg-name="求索动物" tvg-chno="801" tvg-logo="https://live.fanmingming.com/tv/QSDW.png" group-title="华数", 求索动物
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF: -1 tvg-id="求索生活" tvg-name="求索生活" tvg-chno="802" tvg-logo="https://live.fanmingming.com/tv/QSSH.png" group-title="华数", 求索生活
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF: -1 tvg-id="求索科学" tvg-name="求索科学" tvg-chno="803" tvg-logo="https://live.fanmingming.com/tv/QSKX.png" group-title="华数", 求索科学
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF: -1 tvg-id="求索记录" tvg-name="求索记录" tvg-chno="804" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="华数", 求索纪录
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF: -1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-chno="901" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="咪咕", 咪咕体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226240/2/index.m3u8
 #EXTINF: -1 tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-chno="902" tvg-logo="https://epg.112114.xyz/logo/咪咕音乐.png" group-title="咪咕", 咪咕音乐
