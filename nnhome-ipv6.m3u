@@ -156,23 +156,23 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF: -1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-chno="301" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海", 东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF: -1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-chno="302" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海", 上海新闻
-http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="上海都市" tvg-name="上海都市" tvg-chno="303" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海", 上海都市
-http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-chno="304" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海", 五星体育
-http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-chno="305" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海", 东方影视
-https://itv.lat/tv/live.php?&line=1&id=dfys
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-chno="306" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海", 生活时尚
 https://itv.lat/tv/live.php?&line=1&id=shss
 #EXTINF: -1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-chno="307" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海", 第一财经
-https://itv.lat/tv/live.php?&line=1&id=dycj
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-chno="308" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海", 上海ICS外语
-https://itv.lat/tv/live.php?&line=1&id=shics
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-chno="309" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海", 劲爆体育
 https://itv.lat/tv/live.php?&line=1&id=jbty
 #EXTINF: -1 tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-chno="310" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海", 纪实人文
-https://itv.lat/tv/live.php?&line=1&id=shjsrw
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF: -1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-chno="311" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海", 魅力足球
 https://itv.lat/tv/live.php?&line=1&id=mlzq
 #EXTINF: -1 tvg-id="新视觉" tvg-name="新视觉" tvg-chno="312" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海", SITV新视觉
@@ -186,7 +186,7 @@ https://itv.lat/tv/live.php?&line=1&id=qcxj
 #EXTINF: -1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-chno="316" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="上海", 都市剧场
 https://itv.lat/tv/live.php?&line=1&id=dsjc
 #EXTINF: -1 tvg-id="东方财经" tvg-name="东方财经" tvg-chno="317" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海", 东方财经
-https://itv.lat/tv/live.php?&line=1&id=dfcj
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-chno="318" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="上海", 法治天地
 https://itv.lat/tv/live.php?&line=1&id=fztd
 #EXTINF: -1 tvg-id="乐游" tvg-name="乐游" tvg-chno="319" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="上海", 乐游
