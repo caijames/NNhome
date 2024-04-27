@@ -203,8 +203,6 @@ http://112.19.171.156:9999/udp/239.93.0.162:2192
 http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF: -1 tvg-id="2683" tvg-chno="404" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港", 翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
-#EXTINF: -1 tvg-id="2683" tvg-name="翡翠台" tvg-chno="404" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港", 翡翠台
-http://r.jdshipin.com/62WM7
 #EXTINF: -1 tvg-id="2684" tvg-name="明珠台" tvg-chno="405" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港", 明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF: -1 tvg-chno="407" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="香港", 香港卫视
