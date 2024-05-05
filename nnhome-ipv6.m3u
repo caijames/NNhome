@@ -42,9 +42,9 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8#http://159.75.
 #EXTINF: -1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-chno="119" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视", CCTV8K
 https://tv.cry33.com/ys4k.php?id=8k
 #EXTINF: -1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-chno="120" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="央视", CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTrwI++ngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+http://148.135.93.213:81/live.php?id=CHC家庭影院
 #EXTINF: -1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-chno="121" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="央视", CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTrwI++ngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+http://148.135.93.213:81/live.php?id=CHC动作电影
 #EXTINF: -1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-chno="122" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="央视", CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF/2bWjKgahUTrwI++ngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV/wBk6CoHYGFV14SkLW04
 #EXTINF: -1 tvg-id="风云足球" tvg-name="风云足球" tvg-chno="123" tvg-logo="https://epg.112114.xyz/logo/风云足球.png" group-title="央视", CCTV风云足球
