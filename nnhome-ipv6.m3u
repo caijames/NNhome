@@ -120,25 +120,25 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 #EXTINF: -1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视", 吉林卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF: -1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视", 云南卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 #EXTINF: -1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视", 青海卫视
-https://itv.lat/tv/live.php?&line=1&id=qhws
+http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF: -1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视", 厦门卫视
-https://itv.lat/tv/live.php?&line=1&id=xmws
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 #EXTINF: -1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视", 宁夏卫视
-https://itv.lat/tv/live.php?&line=1&id=nxws
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8
 #EXTINF: -1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视", 三沙卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF: -1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视", 陕西卫视
-https://itv.lat/tv/live.php?&line=1&id=sxws
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8
 #EXTINF: -1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视", 内蒙古卫视
-https://itv.lat/tv/live.php?&line=1&id=nmws
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 #EXTINF: -1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视", 山西卫视
-https://itv.lat/tv/live.php?&line=1&id=sxiws
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 #EXTINF: -1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视", 西藏卫视
-https://itv.lat/tv/live.php?&line=1&id=xzws
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #EXTINF: -1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视", 大湾区卫视
-https://php.17186.eu.org/gdtv/web/nfws.m3u8
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 #EXTINF: -1 tvg-id="教育卫视" tvg-name="教育卫视" tvg-logo="https://epg.112114.xyz/logo/教育卫视.png" group-title="卫视", 教育卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3167522465_-733497031/ott.mobaibox.com/PLTV/3/224/3221227580/index.m3u8
 #EXTINF: -1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://epg.112114.xyz/logo/农林卫视.png" group-title="卫视", 农林卫视
@@ -150,7 +150,7 @@ http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF: -1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视", 康巴卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF: -1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-chno="229" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视", 新疆卫视
-https://itv.lat/tv/live.php?&line=1&id=xjws
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF: -1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-chno="230" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视", 兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF: -1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-chno="301" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="上海", 东方卫视
