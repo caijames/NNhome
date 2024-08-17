@@ -172,9 +172,9 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?
 #EXTINF: -1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-chno="309" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海", 劲爆体育
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-chno="310" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海", 纪实人文
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF: -1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-chno="311" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="上海", 魅力足球
-https://itv.lat/tv/live.php?&line=1&id=mlzq
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF: -1 tvg-id="新视觉" tvg-name="新视觉" tvg-chno="312" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海", SITV新视觉
 https://itv.lat/tv/live.php?&line=1&id=xsj
 #EXTINF: -1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-chno="313" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海", SITV游戏风云
